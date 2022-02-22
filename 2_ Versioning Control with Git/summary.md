@@ -4,4 +4,4 @@
 
 2. Salah satu VCS adalah menggunakan git dengan github sebagai servernya.
    
-3.
+3. Terdapat beberapa perintah umum yang digunakan dalam menjalankan git. Yaitu inisiasi awal (git init,clone,config), Staging Area(add,commit,status), inspect repository(log,checkout, git reset), sinkronisasi (push,fetch,pull),dan branch (branching,merge)
