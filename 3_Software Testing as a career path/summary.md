@@ -30,3 +30,15 @@ Dalam menjadi Softaware Tester terdapat beberapa hal yang harus dikuasai:
 Mencoba melakuakan magang ketika menguasai salh satu dari software testing, Test Case Management Tool, Automation Test serta kemudian lanjut Melamar Pekerjaan. Terdapat beberapa jenjang karir dalam Software Tester dimulai dari Junior QA (FG), QA(1-2 tahun), Senior QA (>3 tahun), QA Lead(5-6), QA Manager (8-11 tahun). 
 
 ## TASK
+Bagaimana cara mendapatkan Air 4L dari Ember yang tersedia berukuran 3L dan 5L?
+
+<img src="./Screenshoot/Analitikal_Soal.png" width="400">
+
+Jawaban :
+  1. Mengisi Air dalam Ember 5L (Ember 5L berisi penuh, Ember 3L berisi kosong)
+  2. Memindahkan Air dari Ember 5L ke Ember 3L (ember 5L berisi 2L, Ember 3L berisi penuh)
+  3. Membuang air pada Ember 3L. Kemudian memindahkan kembali Air 2L di Ember 5L ke Ember 3L (Ember 5L berisi kosong, Ember 3L berisi 2L)
+  4. Mengisi kembali Ember 5L (Ember 5L berisi penuh, Ember 3L berisi 2L )
+  5. Memindahkan Air dari Ember 5L sampai Ember 3L penuh (Ember 5L berisi 4L , Ember 3L berisi penuh)
+  6. Didapatkan Air Sebanyak 4L di Ember 5L
+
