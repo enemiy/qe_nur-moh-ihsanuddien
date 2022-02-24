@@ -1,4 +1,4 @@
-# (2)   Software Testing as Career Path
+# (3) Software Testing as Career Path
 
 ## Resume 
 
@@ -27,7 +27,7 @@ Dalam menjadi Softaware Tester terdapat beberapa hal yang harus dikuasai:
   * Passion ( Memiliki rasa ketertarikan tinggi ketika melakukan Software Testing)
  
 ### How to Become Software Tester
-Mencoba melakuakan magang ketika menguasai salh satu dari software testing, Test Case Management Tool, Automation Test serta kemudian lanjut Melamar Pekerjaan. Terdapat beberapa jenjang karir dalam Software Tester dimulai dari Junior QA (FG), QA(1-2 tahun), Senior QA (>3 tahun), QA Lead(5-6), QA Manager (8-11 tahun). 
+Mencoba melakukan magang ketika menguasai salah satu dari software testing, Test Case Management Tool, Automation Test serta kemudian lanjut Melamar Pekerjaan. Terdapat beberapa jenjang karir dalam Software Tester dimulai dari Junior QA (FG), QA(1-2 tahun), Senior QA (>3 tahun), QA Lead(5-6), QA Manager (8-11 tahun). 
 
 ## TASK
 Bagaimana cara mendapatkan Air 4L dari Ember yang tersedia berukuran 3L dan 5L?

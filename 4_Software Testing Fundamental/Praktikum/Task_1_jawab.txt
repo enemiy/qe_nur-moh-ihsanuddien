@@ -1,0 +1,8 @@
+Gambar pada task 1
+Merupakan sebuah hasil pengujian pada 2 target yang berbeda.
+
+Pada target pertama (com.hashcode.tutorial.entity) 
+didapatkan eksekusi test di 6 Line dari jumlahh 9 line dan pada unit testing mutation didapatkan hasil berupa 2 test berhasil dari total 3 test yang dilakukan 
+
+Pada target pertama (com.hashcode.tutorial.service) 
+didapatkan eksekusi test di semua line (6/6) dan pada unit testing mutation didapatkan hasil berupa 3 test berhasil dari total 3 test yang dilakukan

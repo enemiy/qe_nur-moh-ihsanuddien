@@ -1,0 +1,8 @@
+Kode pada gambar Task 2 adalah 
+sebuah kode dalam bahasa Java 
+tentang program kalkulator sederhana.
+Dimana class kalkulator teridi dari 2 unit fungsi yaitu fungsi add dan fungsi subtrack.
+Didalam Kode tersebut terdapat fungsi pertambahan dan fungsi pengurangan.
+Fungsi tersebut masing masing menerima 2 parameter untuk dilakukan operasi kurang/tambah
+dengan memasukkan hasil ke variabel C
+
