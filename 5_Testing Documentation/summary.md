@@ -29,7 +29,5 @@ Test Scenario menjelaskan tentang apa yang harus diuji dalam suatu sistem, Test 
 ## TASK
 Membuat Test Case di sepulsa.com
 
-
-
-Jawaban : 
+Jawaban : [Spreadsheet_Excel_Test_Case_Praktikum](https://docs.google.com/spreadsheets/d/1FGTvpuFV04cBs92zyIZ72UQR_aE4qrQcW64yQaAqAHI/edit?usp=sharing)
 
