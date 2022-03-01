@@ -1,0 +1,10 @@
+TASK 1 (THEORY)
+1. BUGS adalah Suatu kondisi pada fitur dimana tidak menghasilkan output sesuai dengan hasil yang diharapkan
+2. TODO adalah Board yang berisi story apa saja yang akan dilakukan sesuai dengan prioritas dan requirement awal yang telah disepakati
+3. IN PROGRESS adalah Board yang berisi story apa yang sedang dikerjakan pada oleh software engineer 
+4. Perbedaan DELIVER dan Finish adalah pada saat tahap DELIVER story yang telah selesai siap untuk memasuki tahap pegujian oleh QA , sedangkan pada tahap FINISH story yang telah selesai belum siap diuji QA
+5. EPIC adalah jenis untuk mengelompokkan issue-issue kecil menjadi satu buah kelompok.
+6. Saat menemukan bugs kita harus membuat issues bertipe bugs, kemudian memindahkan issues bugs beserta fitur yang berkaitan ke board IN PROGRESS
+
+TASK 2 (PRACTICE)
+https://docs.google.com/document/d/1gQn3R7WFctBcU2TU8rBSrioVoqbwR_LkMLDKI18RKts/edit?usp=sharing
