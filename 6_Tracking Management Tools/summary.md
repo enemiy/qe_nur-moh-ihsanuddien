@@ -48,9 +48,13 @@ Terdapat 4 macam Issue :
 ## TASK
 
 ### Theory
+<img src="./Screenshoot/Task_Theory.png" width="400">
+
 [Jawaban](./Praktikum/Jawaban_Task.txt)
 
 ### PRACTICE
+<img src="./Screenshoot/Task_Theory.png" width="400">
+
 [Docs_Task_Practice](https://docs.google.com/document/d/1gQn3R7WFctBcU2TU8rBSrioVoqbwR_LkMLDKI18RKts/edit?usp=sharing) 
 
 
