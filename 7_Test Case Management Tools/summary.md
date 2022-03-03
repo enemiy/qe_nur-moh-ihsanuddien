@@ -39,6 +39,6 @@ Langkah-Langkah membuat Test Case pada Testrails :
 
 <img src="./Screenshoot/soal.png" width="400">
 
-Jawab : 
+Jawab : [Docs_praktikum_7](https://docs.google.com/document/d/1lxBjVoHALCq_1wlFGWVnBYGR33ZROHjFN71jBdOekos/edit?usp=sharing)
 
 
