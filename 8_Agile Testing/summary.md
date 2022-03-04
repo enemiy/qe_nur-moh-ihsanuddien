@@ -55,7 +55,9 @@ Terdapat 3 level yaitu :
 ## TASK
 
 1. Pada fase apa saja QE berperan pada proses SDLC? sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut!
-jawab: 
+
+Jawab: 
+
 Software QA pada SDLC memiliki perna utama ketika dalam fase Testing dimana QA akan membuat test case dan mengeksekusinya untuk mematikan suatu software sudah layak untuk dideploy.
 
 2. Menurut teman teman, apa tantangan ketika menerapkan agile testing? berikan penjelasan pada masing masing 5 poin agile testing manifesto!
