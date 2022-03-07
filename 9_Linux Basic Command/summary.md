@@ -34,3 +34,83 @@ Shell scripting merupakan bahasa pemrograman yang dikompilasi menggunakan berdas
 ## TASK
 
 <img src="./screenshoot/soal.png" width="600">
+
+### 1
+1. Basic command
+  * cal
+  Menampilkan tanggal pada sistem operasi
+
+  <img src="./screenshoot/date.png" width="600">
+
+  
+2. 
+  * touch
+  membuat file baru
+
+   <img src="./screenshoot/touch.png" width="600">
+
+  * cat
+  menampilkan isi sebuah file
+
+  <img src="./screenshoot/cat.png" width="600">
+
+  * mv
+  memindahkan lokasi file
+
+  <img src="./screenshoot/mv.png" width="600">
+  
+  * cp
+  melakukan copy file
+
+  <img src="./screenshoot/cp.png" width="600">
+
+  * rm
+  menghapus file 
+
+  <img src="./screenshoot/rm.png" width="600">
+
+  * mkdir
+  Membuat direktori baru / folder baru
+
+  <img src="./screenshoot/mkdir.png" width="600">
+  
+  * rmdir
+  Menghapus direktori/folder
+
+  <img src="./screenshoot/rmdir.png" width="600">
+  
+  * cd 
+  perintah untuk berpindah direktori
+  
+  <img src="./screenshoot/cd.png" width="600">
+  
+  * pwd
+  Perintah untuk menampilkan lokasi direktori kita
+
+  <img src="./screenshoot/pwd.png" width="600">
+
+3. Processes control command 
+
+  * clear
+  Menghapus isi dari command line sehingga kembali kosong
+
+  <img src="./screenshoot/clear.png" width="600">
+
+  * history
+  menampilkan riwayat command yang digunakan
+
+  <img src="./screenshoot/history.png" width="600">
+
+4. Utilities Programs command (ls,which,sudo,find,etc)
+
+  * ls
+  * which
+  * sudo
+  * find
+
+5. File access permission (chmod,chown,etc)
+  * chmod
+  * chown
+
+
+### 2
