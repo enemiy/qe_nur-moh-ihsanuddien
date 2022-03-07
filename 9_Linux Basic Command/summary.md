@@ -37,80 +37,79 @@ Shell scripting merupakan bahasa pemrograman yang dikompilasi menggunakan berdas
 
 ### 1
 1. Basic command
-  * cal
-  Menampilkan tanggal pada sistem operasi
+  * cal (Menampilkan tanggal pada sistem operasi)
 
   <img src="./screenshoot/date.png" width="600">
 
   
 2. 
-  * touch
-  membuat file baru
+  * touch (membuat file baru)
 
    <img src="./screenshoot/touch.png" width="600">
 
-  * cat
-  menampilkan isi sebuah file
+  * cat (menampilkan isi sebuah file)
 
   <img src="./screenshoot/cat.png" width="600">
 
-  * mv
-  memindahkan lokasi file
+  * mv (memindahkan lokasi file)
 
   <img src="./screenshoot/mv.png" width="600">
   
-  * cp
-  melakukan copy file
+  * cp (melakukan copy file)
 
   <img src="./screenshoot/cp.png" width="600">
 
-  * rm
-  menghapus file 
+  * rm (menghapus file )
 
   <img src="./screenshoot/rm.png" width="600">
 
-  * mkdir
-  Membuat direktori baru / folder baru
+  * mkdir (Membuat direktori baru / folder baru )
 
   <img src="./screenshoot/mkdir.png" width="600">
   
-  * rmdir
-  Menghapus direktori/folder
+  * rmdir (Menghapus direktori/folder)
 
   <img src="./screenshoot/rmdir.png" width="600">
   
-  * cd 
-  perintah untuk berpindah direktori
+  * cd (perintah untuk berpindah direktori)
   
   <img src="./screenshoot/cd.png" width="600">
   
-  * pwd
-  Perintah untuk menampilkan lokasi direktori kita
+  * pwd (Perintah untuk menampilkan lokasi direktori kita)
 
   <img src="./screenshoot/pwd.png" width="600">
 
 3. Processes control command 
 
-  * clear
-  Menghapus isi dari command line sehingga kembali kosong
+  * clear (Menghapus isi dari command line sehingga kembali kosong)
 
   <img src="./screenshoot/clear.png" width="600">
 
-  * history
-  menampilkan riwayat command yang digunakan
+  * history(menampilkan riwayat command yang digunakan)
 
   <img src="./screenshoot/history.png" width="600">
 
 4. Utilities Programs command (ls,which,sudo,find,etc)
 
-  * ls
-  * which
-  * sudo
-  * find
+  * ls ( menampilkan list file yang ada pada sutau direktori)
+
+  <img src="./screenshoot/ls.png" width="600">
+
+  * which ( mencari suatu file )
+
+  <img src="./screenshoot/which.png" width="600">
+
+  * find ( mencari semua lokasi file berdasarkan parameter yang dicari)
+
+  <img src="./screenshoot/find.png" width="600">
 
 5. File access permission (chmod,chown,etc)
-  * chmod
-  * chown
+  * chmod ( mengubah mode dari file atau folder )
 
+  <img src="./screenshoot/chmod.png" width="600">
+  
+  * chown ( mengubah kepemilikan atau permission suatu file )
+
+  <img src="./screenshoot/chown.png" width="600">
 
 ### 2
