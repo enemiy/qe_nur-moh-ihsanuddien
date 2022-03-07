@@ -35,14 +35,14 @@ Shell scripting merupakan bahasa pemrograman yang dikompilasi menggunakan berdas
 
 <img src="./screenshoot/soal.png" width="600">
 
-### 1
+###  NOMOR 1
 1. Basic command
   * cal (Menampilkan tanggal pada sistem operasi)
 
   <img src="./screenshoot/date.png" width="600">
 
   
-2. 
+2. File system command
   * touch (membuat file baru)
 
    <img src="./screenshoot/touch.png" width="600">
@@ -112,4 +112,16 @@ Shell scripting merupakan bahasa pemrograman yang dikompilasi menggunakan berdas
 
   <img src="./screenshoot/chown.png" width="600">
 
-### 2
+### NOMOR 2
+
+<img src="./screenshoot/shell_script.png" width="600">
+
+Pada shell script tersebut terdapat perintah : 
+1. menampilkan kata "Hello World"
+2. Menerima deklarasi variabel angka1 =10
+3. menerima deklarasi variabel angka2 = 10
+4. melakukan operasi kali 
+5. menampilkan isi variabel kali
+6. menampilkan kata "masukkan nama"
+7. menerima input 
+8. menampilkan kata hai dengan diikuti hasil input
