@@ -99,6 +99,7 @@ Karena ditemukan bugs saat test maka membuat issue bugs di JIRA dan dimasukkan d
 
 <img src="./Screenshoot/testrail/step_8.png" width="400">
 
+LINK DOCS : [DOCS](https://docs.google.com/document/d/1NkgZ0IWkmX-nz3yCBVhDtnyn9pn7ap7ABy06itnUVbU/edit?usp=sharing)
 
 LINK JIRA : [JIRA](https://nmihsanuddien.atlassian.net/jira/software/projects/BT1Q/boards/2)
 
