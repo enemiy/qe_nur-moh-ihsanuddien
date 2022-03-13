@@ -7,7 +7,7 @@ Link Soal : [Docs_Tugas](https://docs.google.com/document/d/1SdVsX7fzCDEppKzJxWs
 
 ## Jawab :
 
-LINK DOCS : [DOCS](https://docs.google.com/document/d/1NkgZ0IWkmX-nz3yCBVhDtnyn9pn7ap7ABy06itnUVbU/edit?usp=sharing)
+LINK DOCS : [DOCS](https://docs.google.com/document/d/1f8G3uqFy7jp_dqA3IhXj4YSVYvnHmXIXQS6ZuBiF3gY/edit?usp=sharing)
 
 ### Kode Program 
 
