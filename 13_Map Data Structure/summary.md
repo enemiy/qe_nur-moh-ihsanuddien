@@ -45,4 +45,4 @@ Hashmap dimana data didalamnya tidak dapat diubah isinya.
 
 Soal : [Docs_Soal](https://docs.google.com/document/d/1ouJHEhzwTEmM4-433bSe4yCUm4D5s0dP798t_rz4Xnc/edit);
 
-Jawab: [Docs_Jawab](https://docs.google.com/document/d/1eCT2RGbslnefnLKGl6Jq8wZTa8aRFbBj6HSSWETfW5M/edit?usp=sharing);
+Jawab: [Docs_Jawab](https://docs.google.com/document/d/1pw81IeoA4CTRtk1Qchbt2MHq3x5q8p9A4n9rUojB5Bk/edit?usp=sharing);
