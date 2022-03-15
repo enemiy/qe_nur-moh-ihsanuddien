@@ -19,7 +19,7 @@ public class MaximumSumSubArrayK {
 
             k = 2;
             int[] angka2 = {2,3,4,1,5};
-            System.out.println(Sum(angka2,k));
+            System.out.println(Sum(angka,k));
         }
     }
 
