@@ -45,4 +45,4 @@ Soal :
 
 <img src="./screenshoot/task.png" width="600">
 
-Jawab: [Docs_Jawab]();
+Jawab: [Docs_Jawab](https://docs.google.com/document/d/1qFhFWChofX2oNauzky6RGcehF2jtJ2YGRtodHXPCJ3o/edit?usp=sharing);
