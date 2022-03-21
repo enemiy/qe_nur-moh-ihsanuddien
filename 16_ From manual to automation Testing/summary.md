@@ -57,6 +57,6 @@ Soal :
 
 Soal 2 :
 
-<img src="./screenshoot/task_2.png" width="600">
+<img src="./screenshoot/Task_2.png" width="600">
 
 Jawab: [Docs_Jawab](https://docs.google.com/document/d/1toG4O8GHQkRzXtTH-XAXUDuj7eLEhsBqrcVqLTx4Ih0/edit?usp=sharing);
