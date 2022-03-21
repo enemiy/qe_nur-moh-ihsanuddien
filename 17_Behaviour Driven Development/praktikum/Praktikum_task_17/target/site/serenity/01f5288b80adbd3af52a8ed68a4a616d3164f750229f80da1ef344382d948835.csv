@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Jobs","As user i have be able to see jobs related to me","SUCCESS","2022-03-21T16:59:01.273+07:00[Asia/Bangkok]","0.0","0.42"
+"Login","As user i have be able to success login","SUCCESS","2022-03-21T16:59:01.697+07:00[Asia/Bangkok]","0.0","0.03"
+"Notication","As user i have be able to see notifications","SUCCESS","2022-03-21T16:59:01.731+07:00[Asia/Bangkok]","0.0","0.02"
+"Profile","As user i have be able to see my profile page","SUCCESS","2022-03-21T16:59:01.754+07:00[Asia/Bangkok]","0.0","0.03"
+"Search","As user i have be able to search with keyword","SUCCESS","2022-03-21T16:59:01.787+07:00[Asia/Bangkok]","0.0","0.03"

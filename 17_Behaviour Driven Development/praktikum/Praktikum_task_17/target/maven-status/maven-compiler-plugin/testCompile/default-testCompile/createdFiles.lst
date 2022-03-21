@@ -1,0 +1,11 @@
+starter\login\Login.class
+starter\Notification\Notifications.class
+starter\stepdefinitions\LoginSteps.class
+starter\Profile\Profile.class
+starter\stepdefinitions\JobsSteps.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\ProfileSteps.class
+starter\jobs\Jobs.class
+starter\Search\Search.class
+starter\stepdefinitions\NotificationSteps.class
+starter\stepdefinitions\SearchSteps.class
