@@ -12,13 +12,36 @@ Apache JMeter adalah perangkat lunak open-source aplikasi dekstop java yang dira
 
 ### Components of JMeter Script
 1. Test Plan
+
+Rencana besar tes yang akan dijalankan.
+
 2. Thread Group
+
+Kumpulan Thread yang menjalankan skenario yang sama.
+
 3. Samplers
+
+Sebutan untuk request yang dikirim ke server.
+
 4. Config Elements
+
+Elemen yang digunakan untuk konfigurasi sampler request.
+
 5. Listeners
+
+Perekam data yang dihasilkan dari tes
+
 6. Timers
+
+Fitur ini akan jalan duluan sebelum semua fitur lain berjalan.
+
 7. Assertions
+
+Kriteria tambahan apakah suatu assert pada API/Web/Testing pass atau tidak.
+
 8. Pre-post processors
+
+Fitur yang memroses response data sebelum/sesudah tes.
 
 ### How To record with JMeter
 Langkah Penggunaan JMeter:
@@ -35,20 +58,6 @@ Pada Summary Report
 ``` 
 Success rate = (jumlah_response_2xx/jumlah_thread)*100%
 ```
-## TASK
 
-### Soal 1 : 
-<img src="./screenshoot/task1.png" width="600">
-
-<br>
-
-<b>Jawaban :</b> Volume Test adalah salah satu non-functional test yang menguji ketahanan suatu sistem ketika diberi database yang banyak
-
-### Soal 2
-<img src="./screenshoot/task2.png" width="600">
-
-<br>
-
-<b>Jawaban :</b> Pada pengujian diatas suatu sistem bisa dikatakan tidak stabil karena pada saat pengujian pada sistem dengan load 90th percentile, 95th percentile dan max memiliki waktu pada max dan avg dengan nilai yang sama yaitu max 9.07 min dan avg 3.36 min. Seharusnya dapat bertahap dan tidak sama persis.
 
 
