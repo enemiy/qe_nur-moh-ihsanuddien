@@ -1,0 +1,5 @@
+test\automation\hooks\BaseDriverHooks.class
+test\automation\pageobject\BasePageObject.class
+CucumberTestSuite.class
+test\automation\pages\CalculatorScreen.class
+test\automation\stepdefinitions\CalculatorSteps.class
