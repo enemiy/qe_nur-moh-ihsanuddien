@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_Transactions_GetAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7396c7f-29ec-4a9f-9f49-be1e8f768faf</testCaseGuid>
+</TestCaseEntity>

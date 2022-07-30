@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Auth_Login_Valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e79d2064-9dde-45a7-add5-eb512bd5efa2</testCaseGuid>
+</TestCaseEntity>

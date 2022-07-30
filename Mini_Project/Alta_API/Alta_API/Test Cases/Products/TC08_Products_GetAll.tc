@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Products_GetAll</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd91170b-92d8-46fe-8aae-01c8eab2a53c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Categories_Create_Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff524465-46c7-4702-b048-bea2a28bfd92</testCaseGuid>
+</TestCaseEntity>
